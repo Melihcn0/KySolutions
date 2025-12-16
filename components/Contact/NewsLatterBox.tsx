@@ -21,7 +21,7 @@ const NewsLatterBox = () => {
 
     <a
       href="mailto:kysolutions.business@gmail.com?subject=Bilgi Almak İstiyorum"
-      className="shadow-submit dark:shadow-submit-dark mb-5 flex items-center justify-center rounded-sm bg-primary px-9 py-4 text-base font-medium text-white duration-300 hover:bg-primary/90 mx-auto w-1/3"
+      className="shadow-submit dark:shadow-submit-dark flex items-center justify-center rounded-sm bg-primary px-9 py-4 text-base font-medium text-white duration-300 hover:bg-primary/90 mx-auto w-1/2"
     >
       E-Posta Gönder
     </a>
